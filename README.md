@@ -1,7 +1,7 @@
 <img width="1932" height="58" alt="Capture" src="https://github.com/user-attachments/assets/ae47f806-aae4-44d6-85d3-5ae4a773fc2a" />
 
 # FourEssentials
-FourEssentials aims at bringing features from the (Essentials)[https://essentialsx.net] plugin of Java Edition and add it to FourKit.
+FourEssentials aims at bringing features from the [Essentials](https://essentialsx.net) plugin of Java Edition and add it to FourKit.
 
 ## Commands
 
